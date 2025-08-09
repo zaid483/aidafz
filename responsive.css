@@ -1,0 +1,9 @@
+.circle{
+    height: 40px;
+    width: 40px;
+    border: 2px solid blueviolet;
+    border-radius: 50%;
+    color: blueviolet;
+    text-align: center;
+    line-height: 2rem;
+}
